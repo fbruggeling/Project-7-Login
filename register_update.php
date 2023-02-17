@@ -24,7 +24,7 @@
 <?php
 $username = "root";
 $password = "";
-$database = new PDO("mysql:host=localhost; dbname=regstratie;",$username,$password);
+$database = new PDO("mysql:host=localhost; dbname=user;",$username,$password);
 
 
 //controleer of de enail lijkt op een andere
