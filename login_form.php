@@ -7,7 +7,7 @@
 <body>
     <h3>Login systeem Project 7</h3>
 
-    <form action="" method="POST">
+    <form action="login_form.php" method="POST">
         <h4>Inloggen</h4>
         <hr>
 
